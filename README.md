@@ -228,7 +228,7 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
   
 ### 🥅 Frameworks & Library thers:
 
-
+<p align="left">
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img alt=".net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
 
 
@@ -255,11 +255,13 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 <a href="#" target="_blank"><img alt="spring-boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></a>
 
 <a href="#" target="_blank"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"></a>
+</p>
 
 ### 📱 Mobile Frameworks
 <a href="#" target="_blank"><img alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 
 ### ⚡ other
+<p align="left">
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
 
 <a href="#" target="_blank"><img alt="Adobe 20illustrator Pro" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
@@ -267,7 +269,7 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 <a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
 
 <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
-
+</p>
 
 
 
