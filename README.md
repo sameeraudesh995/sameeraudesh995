@@ -140,13 +140,6 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
   
 </p>
 
-
-
-
-    
-
-
-
 ### ♾️ DevOps
 
 <p align="left"> 
@@ -170,114 +163,71 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 ### 💾 Databases
 
 <p align="left"> 
-
   <a href="https://www.mysql.com/" target="_blank"> 
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
   </a>   
-  
-  
  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
     <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
   </a>
-  
 </p>
 
 
-
-
-
-
-
-
-
-    
-    
 ### 💻 IDEs/Editors
 
 <p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank"> 
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  </a>   
-  
+  </a>  
   <a href="https://developer.android.com/studio" target="_blank">
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white">
-  </a> 
-
+  </a>
  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
-  </a>
-
+ </a>
  <a href="https://netbeans.apache.org/" target="_blank"> 
     <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"/>
   </a>
-
  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green"/>
   </a>
-
  <a href="https://www.sublimetext.com/" target="_blank"> 
     <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"/>
   </a>
-  
   <a href="https://visualstudio.microsoft.com/" target="_blank"> 
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
   </a>
 </p>
+<br>
 
-
-
-    
-    
-
-  
-  
-  
 ### 🥅 Frameworks & Library thers:
 
-
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img alt=".net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
-
-
+<p align="left">
+ <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img alt=".net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
 <a href="https://tomcat.apache.org" target="_blank"><img alt="Apache Tomcat" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black"></a>
-
-
-
 <a href="#" target="_blank"><img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
-
 <a href="#" target="_blank"><img alt="microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-
 <a href="#" target="_blank"><img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-
 <a href="#" target="_blank"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
-
 <a href="#" target="_blank"><img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-
 <a href="#" target="_blank"><img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-
 <a href="#" target="_blank"><img alt="react router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
-
 <a href="#" target="_blank"><img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
-
 <a href="#" target="_blank"><img alt="spring-boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></a>
-
 <a href="#" target="_blank"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"></a>
+</p>
+<br>
 
 ### 📱 Mobile Frameworks
 <a href="#" target="_blank"><img alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 
 ### ⚡ other
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
-
+<p align="left">
+ <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="Adobe 20illustrator Pro" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
-
 <a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
-
 <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
+</p>
 
-
-
-
-<br> 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
