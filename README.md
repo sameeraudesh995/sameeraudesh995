@@ -1,3 +1,4 @@
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 ![](https://komarev.com/ghpvc/?username=sameeraudesh995&style=flat&color=blue)
 
 <h1 align="center">Hi!,  I'm Sameera Udesh <img src=
