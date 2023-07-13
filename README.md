@@ -267,7 +267,7 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 
 <br>
 
-#### <p align="center"><b>Thank you for taking the time to read my profile <3</b></p>
+#### <p align="center"><b>Thank you for taking the time to read my profile :heart:</b></p>
 
 
 -----
