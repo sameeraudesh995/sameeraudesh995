@@ -121,31 +121,6 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 
 
 
-
-### ☁️ Cloud
-
-<p align="left"> 
-  <a href="https://aws.amazon.com/" target="_blank"> 
-   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
-  </a>   
-  
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white">
-  </a> 
-  
- <a href="https://cloud.google.com/" target="_blank"> 
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
-  </a>
-  
-</p>
-
-
-
-
-    
-
-
-
 ### ♾️ DevOps
 
 <p align="left"> 
