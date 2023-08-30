@@ -235,8 +235,11 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 
 <br>
 ## ⭐️ GitHub Stats
+<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameeraudesh995&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameeraudesh995&theme=2077)<br/>
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameeraudesh995&theme=2077)
+<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameeraudesh995&theme=2077)
 
 ## <b>💪Quote || Fact</b>
