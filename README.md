@@ -234,6 +234,10 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sameeraudesh995&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
+## ⭐️ GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameeraudesh995&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameeraudesh995&theme=2077)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameeraudesh995&theme=2077)
 
 ## <b>💪Quote || Fact</b>
 <br>
