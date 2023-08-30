@@ -232,6 +232,20 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 <p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameeraudesh995&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
 
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sameeraudesh995&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+<br>
+
+## <img src="https://github.com/sameeraudesh995/sameeraudesh995/blob/main/GitHub%20Images/progress.gif" width="30px"> GitHub Streak Stats
+![](https://github-readme-stats.vercel.app/api?username=sameeraudesh995&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sameeraudesh995&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sameeraudesh995&theme=radical&hide_border=false)
+<br/>
+![](https://github-profile-trophy.vercel.app/?username=sameeraudesh995&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<br/>
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
 ## ⭐️ GitHub Stats
