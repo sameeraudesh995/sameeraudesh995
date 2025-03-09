@@ -67,7 +67,7 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 ### 📋 Frontend Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,angular" />
   </a>
 </p>
 
