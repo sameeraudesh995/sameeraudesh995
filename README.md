@@ -1,10 +1,8 @@
-
 ![](https://komarev.com/ghpvc/?username=sameeraudesh995&style=flat&color=blue)
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-<h1 align="center">Hi!,  I'm Sameera Udesh <img src=
-"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi!, I'm Sameera Udesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center" style="border: px solid #000000;>
 
@@ -12,7 +10,7 @@
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
-<p align="center" >
+<p align="center">
  
  </p>
 
@@ -21,32 +19,15 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 
 <br>
 
-  
-
-
- -  🔭 I’m currently working on something cool 😉
-
-- 👯 I’m looking forward to collaborate on C#, Java projects.
-
-- 🌱 Learning about Software Engineering and Machine Learning stuff
-
-
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-
-
-<br>
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
- 
- 
 <br>
 
 <p align="center"><!-----Social Accounts------>
 
 <p align="center">
  <a href="">
- <img border="0" alt="Sameera's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
+ <img border="0" alt="Sameera's Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white">
  </a>
  <a href="https://www.linkedin.com/in/sameera-udesh-460448273/">
  <img border="0" alt=" LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -73,9 +54,6 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 </p>
 
 <br>
-
-
-
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -119,8 +97,6 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
   </a>
 </p>
 
-
-
 ### ♾️ DevOps
 
 <p align="left"> 
@@ -138,9 +114,6 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
   </a>
 </p>
 
-
-
-
 ### 💾 Databases
 
 <p align="left"> 
@@ -156,7 +129,6 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
   
 </p>
 
-    
 ### 💻 IDEs/Editors
 
 <p align="left"> 
@@ -189,14 +161,6 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
   </a>
 </p>
 
-
-
-    
-    
-
-  
-  
-  
 ### 🥅 Frameworks & Library thers:
 
 <p align="left">
@@ -226,7 +190,6 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 </p>
 <br> 
 
-
 <br>
 
 ## <img src="https://github.com/sameeraudesh995/sameeraudesh995/blob/main/GitHub%20Images/progress.gif" width="30px"> GitHub Streak Stats
@@ -254,4 +217,4 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 -----
 Credits: [Sameera](https://github.com/sameeraudesh995)
 
-Last Edited on: 07/07/2023
+Last Edited on: 09/03/2025
