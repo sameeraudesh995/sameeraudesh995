@@ -57,138 +57,61 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-### 📋 Programming languages
-
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  </a> 
-
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
-
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
+### 📋 Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,js,python,cpp" />
   </a>
 </p>
 
 ### 📋 Frontend Development
-
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-  
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
-  </a>
-  
-  <a href="https://tailwindcss.com" target="_blank"> 
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
   </a>
 </p>
 
-### ♾️ DevOps
-
-<p align="left"> 
-
- <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
-  </a>
- 
- <a href="https://about.gitlab.com/" target="_blank"> 
-    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white"/>
-  </a>
-  
- <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+### 📋 Backend Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,dotnet" />
   </a>
 </p>
 
-### 💾 Databases
-
-<p align="left"> 
-
-  <a href="https://www.mysql.com/" target="_blank"> 
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
-  </a>   
-  
-  
- <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
-    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
-  </a>
-  
-</p>
-
-### 💻 IDEs/Editors
-
-<p align="left"> 
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  </a>   
-  
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white">
-  </a> 
-
- <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
-  </a>
-
- <a href="https://netbeans.apache.org/" target="_blank"> 
-    <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"/>
-  </a>
-
- <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
-    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-  </a>
-
- <a href="https://www.sublimetext.com/" target="_blank"> 
-    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"/>
-  </a>
-  
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> 
-    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
+### 📋 Mobile Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react" />
   </a>
 </p>
 
-### 🥅 Frameworks & Library thers:
-
-<p align="left">
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img alt=".net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
-<a href="https://tomcat.apache.org" target="_blank"><img alt="Apache Tomcat" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black"></a>
-<a href="#" target="_blank"><img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
-<a href="#" target="_blank"><img alt="microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-<a href="#" target="_blank"><img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-<a href="#" target="_blank"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
-<a href="#" target="_blank"><img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-<a href="#" target="_blank"><img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="#" target="_blank"><img alt="react router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
-<a href="#" target="_blank"><img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
-<a href="#" target="_blank"><img alt="spring-boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></a>
-<a href="#" target="_blank"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"></a>
+### 📋 Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
+  </a>
 </p>
 
-### 📱 Mobile Frameworks
-<a href="#" target="_blank"><img alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-
-### ⚡ other
-<p align="left">
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
-<a href="#" target="_blank"><img alt="Adobe 20illustrator Pro" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
-<a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
-<a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
+### 📋 DevOps & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,aws,azure,gcp" />
+  </a>
 </p>
-<br> 
+
+### 📋 IDEs & Editors
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,pycharm,eclipse" />
+  </a>
+</p>
+
+### 📋 Design Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender" />
+  </a>
+</p>
 
 <br>
 
@@ -217,4 +140,4 @@ I am Sameera Udesh, a student and tech enthusiast with a passion for software de
 -----
 Credits: [Sameera](https://github.com/sameeraudesh995)
 
-Last Edited on: 09/03/2025
+Last Edited on: 07/07/2023
